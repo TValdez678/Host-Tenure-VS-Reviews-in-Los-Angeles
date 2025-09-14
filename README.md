@@ -1,0 +1,1 @@
+Using Los Angeles Airbnb data, I attempted to figure out whether there was a positive monotonic relationship between host tenure and ratings or not. I used the practice of data cleaning, data visualization, as well as the Spearman correlation test in order to come to the conclusion that while the relationship was statistically significant, the relationship itself was weak.
